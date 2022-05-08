@@ -6,6 +6,11 @@ The goal of the project was to use estimate a model to determine
 the main variables that influence Airbnb listing ratings and write a
 blog post summarizing the results.
 
+## Blog post
+The system didn't let me add this after submitting my Github repository,
+so here it is
+https://medium.com/@vogan.michael/recipe-for-a-good-airbnb-experience-1a4905d8f50
+
 ## Questions of interest
 1) What actions can a host take to get a high rating?
 
